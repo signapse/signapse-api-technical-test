@@ -1,8 +1,10 @@
 **Preparation**
+
 Please come prepared ready to start building the application – your preferred programming
 environment, IDE and language of choice.
 
 **The test**
+
 1. Create an API with the endpoint `/ordered-numbers` ;
 2. The endpoint should consume data from a a third-party API:
 [http://technical-test.api.production.signapsesolutions.com](http://technical-test.api.production.singapsesolutions.com)

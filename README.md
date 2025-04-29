@@ -7,7 +7,7 @@ environment, IDE and language of choice.
 
 1. Create an API with the endpoint `/ordered-numbers` ;
 2. The endpoint should consume data from a a third-party API:
-[http://technical-test.api.production.signapsesolutions.com](http://technical-test.api.production.singapsesolutions.com)
+[http://technical-test.api.production.signapsesolutions.com/api/numbers](http://technical-test.api.production.singapsesolutions.com/api/numbers)
 This endpoint returns an array of random integers and UUID’s
 The endpoint is protected with Bearer Authorisation tokens, you will be sent the token in advance of the test. 
 3. The order and type of data returned from the third-party does not match the requirements of our end-users.
